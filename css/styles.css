@@ -1,12 +1,60 @@
-.link {
-    color: #000000;
-font-family: Roboto;
-font-size: 20px;
-font-weight: 500;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px;
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
 }
-.link:hover {
-color: #008800;
-
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.header-logo {
+color: #4D5AE5;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;;
+text-transform: uppercase; 
+}
+.studio {
+    color: #2E2F42;
+}
+.header-menu-link {
+    color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.address-link {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1,5;
+    letter-spacing: 0.02em;
+}
+.address-link:hover {
+color: #404BBF;
+}
+.section-hero {
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
+    background: #434455;
+}
+.section-hero-title {
+color: #FFF;
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+}
+.section-hero-button {
+    border-radius: 4px;
+    background: var(--IRIS, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
