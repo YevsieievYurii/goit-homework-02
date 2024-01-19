@@ -14,12 +14,13 @@ a {
 
 /* ======HEADER======== */
 
+.header {
+font-family: "Raleway", sans-serif;
+}
 
 .header-logo {
 color: #4D5AE5;
-font-family: "Roboto", sans-serif;
 font-size: 18px;
-font-style: normal;
 font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
@@ -27,7 +28,7 @@ text-transform: uppercase;
 }
 
 .studio {
-    color: #2E2F42;
+color: #2E2F42;
 }
 
 .header-menu-link {
@@ -46,8 +47,9 @@ letter-spacing: 0.02em;
     color: #404BBF;
 }
 
+
 address {
-    font-style: normal
+font-style: normal
 }
 
 .address-item {
@@ -118,7 +120,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
-.section-goals-item {
+.section-goals-item-title {
 color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
