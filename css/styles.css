@@ -39,10 +39,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.header-menu-link:hover {
-    color: #404BBF;
-}
-
+.header-menu-link:hover,
 .header-menu-link:focus {
     color: #404BBF;
 }
@@ -60,13 +57,11 @@ font-style: normal
     letter-spacing: 0.02em;
 }
 
-.address-link:hover {
+.address-link:hover,
+.address-link:focus {
 color: #404BBF;
 }
 
-.address-link:focus {
-    color: #404BBF;
-}
 
 /* ==================== */
 
