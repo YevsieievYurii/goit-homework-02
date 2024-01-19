@@ -21,7 +21,6 @@ font-family: "Raleway", sans-serif;
 .header-logo {
 color: #4D5AE5;
 font-size: 18px;
-font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
@@ -74,7 +73,6 @@ color: #404BBF;
 color: #FFF;
 text-align: center;
 font-size: 56px;
-font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
 }
@@ -108,7 +106,6 @@ background-color: #404BBF;
 color: #2E2F42;
 text-align: center;
 font-size: 36px;
-font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -125,7 +122,6 @@ letter-spacing: 0.02em;
 .section-goals-text {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;    
 }
@@ -143,7 +139,6 @@ background-color: #F4F4FD;
 color: #2E2F42;
 text-align: center;
 font-size: 36px;
-font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -164,7 +159,6 @@ background-color: #FFFFFF
 .team-text {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -177,7 +171,6 @@ background-color: #FFFFFF
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -194,7 +187,6 @@ background-color: #FFFFFF
 .portfolio-text {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -212,7 +204,6 @@ background: #2E2F42;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
-    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -220,10 +211,9 @@ background: #2E2F42;
 
 .footer-studio {
     color: #F4F4FD;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
-    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -232,7 +222,6 @@ background: #2E2F42;
 .footer-text {
     color: #F4F4FD;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
