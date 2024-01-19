@@ -1,6 +1,5 @@
 body {
     font-family: "Roboto", sans-serif;
-    font-family: "Raleway", sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
@@ -18,11 +17,13 @@ a {
 
 .header-logo {
 color: #4D5AE5;
-font-family: "Raleway", sans-serif;
+font-family: "Roboto", sans-serif;
 font-size: 18px;
+font-style: normal;
 font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 
 .studio {
@@ -45,16 +46,19 @@ letter-spacing: 0.02em;
     color: #404BBF;
 }
 
-.address-link {
+address {
+    font-style: normal
+}
+
+.address-item {
     color: #434455;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 1,5;
     letter-spacing: 0.02em;
 }
 
-.address-link:hover {
+.address-item:hover {
 color: #404BBF;
 }
 
@@ -71,7 +75,7 @@ color: #404BBF;
 }
 
 .section-hero-title {
-color: #4D5AE5;
+color: #FFF;
 text-align: center;
 font-size: 56px;
 font-weight: 700;
